@@ -52,6 +52,8 @@
 
 body {
     background-image: url(giphy_gif\ \(999×800\).gif);
+    background-size:cover;
+    background-repeat:no-repeat;
 }
 
 
